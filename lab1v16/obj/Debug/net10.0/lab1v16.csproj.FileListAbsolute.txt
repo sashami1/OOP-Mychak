@@ -1,0 +1,14 @@
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\bin\Debug\net10.0\lab1v16.exe
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\bin\Debug\net10.0\lab1v16.deps.json
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\bin\Debug\net10.0\lab1v16.runtimeconfig.json
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\bin\Debug\net10.0\lab1v16.dll
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\bin\Debug\net10.0\lab1v16.pdb
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\obj\Debug\net10.0\lab1v16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\obj\Debug\net10.0\lab1v16.AssemblyInfoInputs.cache
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\obj\Debug\net10.0\lab1v16.AssemblyInfo.cs
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\obj\Debug\net10.0\lab1v16.csproj.CoreCompileInputs.cache
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\obj\Debug\net10.0\lab1v16.dll
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\obj\Debug\net10.0\refint\lab1v16.dll
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\obj\Debug\net10.0\lab1v16.pdb
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\obj\Debug\net10.0\lab1v16.genruntimeconfig.cache
+C:\Users\000\OneDrive\Документи\OOP-Mychak\OOP-Mychak\lab1v16\obj\Debug\net10.0\ref\lab1v16.dll
