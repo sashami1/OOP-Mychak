@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Lab2
+namespace lab2v16
 {
     public class SportTeam
     {
