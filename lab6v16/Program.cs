@@ -120,7 +120,7 @@ namespace Lab6Variant16
             Document docRef = textDoc;
             Console.WriteLine($"docRef.GetDocumentType():   {docRef.GetDocumentType()}"); 
 
-            Console.WriteLine("\n--- Порівняння з override (Open) ---");
+            Console.WriteLine("\n Порівняння з override (Open) ");
             docRef.Open(); 
         }
     }
